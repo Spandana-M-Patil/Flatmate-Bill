@@ -1,0 +1,35 @@
+Title name : Flatemat's Bill
+Description : 
+My app should ask the total bill for a particular period 
+and their names and how many days they both spent in the 
+flat it should return each person money how much they have to pay 
+it should also generate a pdf showing both of thier 
+period and name and also how much they have to pay.
+Objects :
+particular period - string
+Total Bill - float
+Name = string
+Days they spent = int
+
+class:
+Bill:
+    amount
+    period 
+    
+Flatmate:
+    name
+    days in flat
+    pays(bill)
+    
+PdfReport:
+    file name
+    generate(flatmate1,Flatemate2,bill)
+    
+
+
+
+
+
+
+
+
