@@ -15,7 +15,7 @@ pip install fpdf
 ```
 1. Clone the repository
 ```cmd
-git clone
+git clone https://github.com/Spandana-M-Patil/Flatmate-Bill.git
 ```
 2. Go to the directory
 ```cmd
